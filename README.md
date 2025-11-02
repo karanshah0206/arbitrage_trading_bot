@@ -1,4 +1,4 @@
-# Algorithmic Arbitrage ETF Trading Bot (compatible with Rotman Trading Simulator)
+# Algorithmic Arbitrage ETF Trading Bot
 
 Python REST trading bot for the RIT x CMU trading contest that performs market-making/spread capture on equities and cross-currency ETF arbitrage, with risk controls, cost modeling, tender-offer handling, and automated order management.
 
